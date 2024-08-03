@@ -2,12 +2,7 @@
 <img src="https://img.shields.io/badge/-Solo Project-f2336f?&style=for-the-badge&logoColor=white" />
 
 ## Objective
-This website showcases my experiences, along with my college career and leadership involvements. Here you will be able to find:
-  - My **Resume**
-  - Experiences
-  - Projects
-  - About me
-  - Contact information
+This was a solo project. The pantry tracking and recipe suggestion application leverages Firebase for authentication and Firestore for real-time data management. It integrates GroqCloud API to provide AI-driven recipe suggestions based on the user's pantry inventory. The application is deployed on Vercel and features a responsive, theme-adaptive user interface built with React and Material-UI, ensuring a seamless and engaging user experience. The project showcases advanced state management, dynamic list updates, and secure handling of user authentication and data operations.
 
 **To be able to view my website on your browser <a href="https://inventory-edombelaynehs-projects.vercel.app/">click-here</a>.**
 
