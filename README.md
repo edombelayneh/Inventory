@@ -22,7 +22,7 @@ This website showcases my experiences, along with my college career and leadersh
 
 ### Tools Used
 <div>
-  <img src="https://img.shields.io/badge/-Html-orange?&style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-NodeJs-orange?&style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/-CSS-blue?&style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/-JavaScript-e8d82a?&style=for-the-badge&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/-VSCode-364559?&style=for-the-badge&logoColor=white" />
