@@ -28,6 +28,10 @@ This was a solo project. The pantry tracking and recipe suggestion application l
   <img src="https://img.shields.io/badge/-MUI Material UI-364559?&style=for-the-badge&logoColor=white" />
 </div>
 
+## Preview
+<img width="781" alt="StockUp" src="https://github.com/user-attachments/assets/4326f217-c3b2-4699-ab54-760e291a32d2">
+
+
 ## To Execute
 - <a href="https://inventory-edombelaynehs-projects.vercel.app/">Click-here</a>
 
