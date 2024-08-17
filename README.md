@@ -1,4 +1,4 @@
-# Inventory / Pantry Tracker App
+# AI Flashcards Generator
 <img src="https://img.shields.io/badge/-Solo Project-f2336f?&style=for-the-badge&logoColor=white" />
 
 ## Objective
