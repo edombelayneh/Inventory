@@ -27,7 +27,8 @@ This solo project is an AI-powered flashcard generator application. The app leve
 </div>
 
 ## Preview
-<img width="781" alt="StockUp" src="https://github.com/user-attachments/assets/4326f217-c3b2-4699-ab54-760e291a32d2">
+<img width="1440" alt="Screenshot 2024-08-17 at 7 55 02 PM" src="https://github.com/user-attachments/assets/3c89afa6-db74-4e79-a73d-8b4084098959">
+
 
 
 ## To Execute
